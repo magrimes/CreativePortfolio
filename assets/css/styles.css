@@ -121,6 +121,8 @@ body {
   
   .header .profile-image {
     margin-right: 30px;
+    width: 325px;
+    height: 350px;
   }
   
   .header .profile-content .name {
